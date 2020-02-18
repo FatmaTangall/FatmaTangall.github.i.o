@@ -1,0 +1,61 @@
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    color: black;
+    margin: 0px;
+    padding: 0px;
+}
+.banner
+{
+    font-size: 15px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    line-height: 70px;
+    width: 1920px;
+    height: 70px;
+
+    
+}
+.menu
+{
+    font-size: 19px;
+    padding: 20px;
+    width: 200px;
+    height:859px;
+    background-color: dimgrey;
+    float: left;
+    
+    
+}
+.menu ul{
+    list-style-type: none;
+}
+.menu ul li
+{
+    line-height: 40px;
+}
+.menu ul li a:hover
+{
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
+{
+    line-height: 40px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.icerik
+{
+    padding: 20px;
+    background-color: aqua;
+    color:black;
+    font-weight: bold;
+    height: 859px;
+    text-align: justify;
+}
